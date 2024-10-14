@@ -1,0 +1,30 @@
+
+body{
+    background-color: black;
+    color :aliceblue
+}
+h1{
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+.secondDiv{
+    background-color: blanchedalmond;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+button{
+    margin: 15px;
+    padding: 15px 20px;
+    cursor: pointer;
+    border : 3px solid gold;
+    
+}
+button:hover{
+    background-color:burlywood;
+    color: green;
+}
+
+
+
